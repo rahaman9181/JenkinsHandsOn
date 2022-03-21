@@ -10,7 +10,7 @@ public class JenkinsController {
 	
 	@GetMapping("/get")
 	public String getScope() {
-		return "Hello World";
+		return "Hello World One";
 		
 	}
 }
